@@ -1,1 +1,1 @@
-Link shortener for my code distribution
+Link shortener for my code distribution.
