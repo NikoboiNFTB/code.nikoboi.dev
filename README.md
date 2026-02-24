@@ -1,2 +1,1 @@
-# code.nikoboi.dev
-Link shortener for my code.
+Link shortener for my code distribution
